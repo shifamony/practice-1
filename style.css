@@ -163,3 +163,27 @@ section{
     color:#262626;
 }
 /*==================== SECTION -3 STYLE END ============================*/
+.counter .counter-box-wrap{
+    background:#fff;
+    box-shadow: 10px 0px 40px #ddd;
+    padding: 60px 30px;
+    border-radius: 25px;
+    justify-content: space-around;
+}
+.counter .counter-box-wrap h2{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color:#000000;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.counter .counter-box-wrap p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 34px;
+    color:#262626;
+    text-align: center;
+}
+/*==================== SECTION -4 STYLE END ============================*/
