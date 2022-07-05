@@ -187,3 +187,24 @@ section{
     text-align: center;
 }
 /*==================== SECTION -4 STYLE END ============================*/
+footer{
+    background:#0B0D17;
+    text-align: center;
+}
+footer h2{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color:#5b5b5b;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+}
+footer p{
+    color:#fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 34px;
+    letter-spacing: 1px;
+}
+/*==================== SECTION -4 STYLE END ============================*/
