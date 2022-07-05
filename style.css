@@ -77,3 +77,41 @@ section{
     color:gray;
 }
 /*==================== SECTION -1 STYLE END ============================*/
+.section-2{
+    padding-top: 80px;
+ }
+ .about-bg{
+     background-image: url(images/shapes/7.png);
+     background-repeat: no-repeat;
+     background-position:top right;
+ }
+ .section-2 .img-box{
+     position: relative;
+     left: 8%;
+ }
+ .section-2 .img-box img{
+     width: 50%;
+     margin-right:120px;
+     vertical-align: middle;
+ }
+ .about-text{
+     margin-top: 20px;
+ }
+ .about-text h2{
+     font-size: 40px;
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 700;
+     color:#575757;
+ }
+ .about-text p{
+     font-family: 'Roboto', sans-serif;
+     font-weight: 400;
+     font-size: 18px;
+     line-height: 34px;
+     padding: 40px 160px 45px 0px;
+     color:#8C8786;
+ }
+ .about-text a{
+     margin: 40px  0 50px 0;
+ }
+ /*==================== SECTION -2 STYLE END ============================*/
